@@ -1,0 +1,48 @@
+body{
+    background: url("https://external-preview.redd.it/all-mighty-morphin-power-rangers-once-always-available-now-v0-Y1MVVe_c8AleqXjHbrBDEBv1_R5egvlvyjBy5NdQgjo.jpg?auto=webp&s=f8fc4bee7390f58871192ad3f9d12f91714b2862");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#heading
+{
+    color: rgb(255, 240, 241);
+    background-color: rgba(0 ,0, 0,0.9);
+    width: 700px;
+    text-align: center;
+    margin:auto;
+    font-style: oblique;
+    font-size: x-large;
+}
+#content
+{
+    display: flex;
+    background:rgba(0 ,0, 0,0.4);
+    height: 530px;
+    width: 1150px;
+    margin: auto;
+    margin-top: 50px;
+    justify-content: space-between;
+   
+}
+img
+{
+    height: 150px;
+    width: 150px;
+    border:3px solid lightgrey;
+    border-top-left-radius: 10%;
+    border-bottom-right-radius: 50%;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+#title
+{
+    color: white;
+    display: flex;
+    width: 1150px;
+    background-color:rgba(0 ,0, 0,0.6);
+    margin: auto;
+    justify-content: space-around;
+    font-style: oblique;
+    font-size: larger;
+}
